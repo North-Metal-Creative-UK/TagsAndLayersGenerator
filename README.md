@@ -54,5 +54,5 @@ Within the editor tool, is a preview of the current state of what has been mappe
 </p>
 
 ### License
-Free - under the [MIT License](./License.txt). 
+Free - under the [MIT License](License.txt). 
 You are also welcome to suggest changes or extend this ultra small editor tool :)
